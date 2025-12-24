@@ -8,7 +8,7 @@ A clean, ATS-optimized single-page professional CV website built with HTML and T
 Designed to showcase enterprise SDET experience, automation frameworks, and production-grade
 project case studies.
 
-🔗 Live Website: https://DeepakTank.github.io
+🔗 Live Website: https://deepaktank.github.io/
 
 ## Tech Stack
 - HTML5
